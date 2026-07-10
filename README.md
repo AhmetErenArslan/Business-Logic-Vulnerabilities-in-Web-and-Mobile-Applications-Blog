@@ -5,7 +5,7 @@ An educational article explaining **Business Logic Vulnerabilities**.
 ## Repository Contents
 
 -   BLOG_EN.pdf --- English Version
--   Blog_2.pdf --- Turkish Version
+-   BLOG_TR.pdf --- Turkish Version
 
 ## Topics Covered
 
