@@ -32,5 +32,3 @@ An educational article explaining **Business Logic Vulnerabilities**.
 ## Author
 
 **Ahmet Eren Arslan**
-
-Computer Engineering Student
